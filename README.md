@@ -10,13 +10,15 @@ Locate the folder which you put the files (you need to clone the folder from git
 
 and enter it inside the terminal using `cd address here`
 
+where you replace address here with the directory address you copied
+
 After you've entered the directory, do `bash filename`
 
 where you replace filename with the name of the api you want to access followed by .sh
 
 For example: `bash alliance-members.sh`
 
-You will be prompted for your api key, and then a request to the pnw website will be made fromo your pc
+You will be prompted for your api key, and then a request to the pnw website will be made from your pc
 
 
 
