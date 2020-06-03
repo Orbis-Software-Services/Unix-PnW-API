@@ -6,7 +6,7 @@ A bunch of unix shell scripts to request api data from pnw.
 
 it's simple! head over to your command terminal (only works for unix systems currently) 
 
-Locate the folder which you put the files, copy the folder address
+Locate the folder which you put the files (you need to clone the folder from github first) , copy the folder address (enter either the raw or processed folder)
 
 and enter it inside the terminal using `cd address here`
 
