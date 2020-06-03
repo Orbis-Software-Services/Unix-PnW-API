@@ -19,4 +19,6 @@ For example: `bash alliance-members.sh`
 You will be prompted for your api key, and then a request to the pnw website will be made fromo your pc
 
 
-**You can read more on pnw api (here)[https://politicsandwar.fandom.com/wiki/Category:API]**
+
+
+**You can read more on pnw api [here](https://politicsandwar.fandom.com/wiki/Category:API)**
